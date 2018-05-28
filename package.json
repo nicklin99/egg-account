@@ -1,0 +1,6 @@
+{
+  "eggPlugin": {
+    "name": "account",
+    "dependencies": ["mongoose", "passport", "passportLocal"]
+  }
+}
